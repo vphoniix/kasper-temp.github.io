@@ -342,7 +342,9 @@ header .form i{
     padding-bottom: var(--sec-padding);    
 }
 
-.portfolio
+.portfolio .shuffle {
+    
+}
 /* portfolio */
 
 
