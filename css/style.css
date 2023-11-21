@@ -497,6 +497,10 @@ header .form i{
     position: relative;
     display: flex;
 }
+
+.stats .container .box{
+    color: white;
+}
 /* stats */
 
 
